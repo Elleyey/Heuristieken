@@ -1,6 +1,6 @@
 import random
 
-NAMES = ["Stephen", "Daan", "Kees", "Bla", "H"]
+NAMES = ["Stephen", "Daan", "Kees", "Bla", "Jette", "Daniek"]
 
 naam = random.choice(NAMES)
 
